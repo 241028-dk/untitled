@@ -1,3 +1,5 @@
+package 課題;
+
 public class review {
     public static void main(String[] args){
         System.out.print("こんにちは。");
